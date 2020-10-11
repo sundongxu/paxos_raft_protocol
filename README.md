@@ -1,6 +1,6 @@
-# pasox_zab_protocol
+# paxos_raft_protocol
 
-分布式一致性协议相关论文及中文译文，涵盖Paxos、Raft、Zab。
+分布式一致性协议相关论文及中文译文，涵盖Paxos、Raft。
 
 ## Paxos
 
